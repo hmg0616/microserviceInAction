@@ -10,3 +10,4 @@
 * 1주차 : [**1주차 (1장)**](https://github.com/hmg0616/microserviceInAction/issues/1), 발표자 : 한문규
 * 2주차 : [**2주차 (2장)**](https://github.com/hmg0616/microserviceInAction/issues/2), 발표자 : 권동희
 * 3주차 : [**3주차 (3장)**](https://github.com/hmg0616/microserviceInAction/issues/3), 발표자 : 권승철
+* 4주차 : [**4주차 (4장)**](https://github.com/hmg0616/microserviceInAction/issues/4), 발표자 : 박현호
